@@ -1,0 +1,4 @@
+
+
+  Izbacuje gresku, tek kada ubacim db u src folder, onda radi, 
+  e sad ne znam da li to moze da utice na ovaj drugi kod...
